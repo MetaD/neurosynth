@@ -1,2 +1,1 @@
-__all__ = ['classify', 'cluster', 'decode', 'meta', 'network', 'reduce',
-           'stats']
+__all__ = ['meta', 'network', 'reduce', 'stats']
